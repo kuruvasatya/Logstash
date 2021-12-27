@@ -1,0 +1,3 @@
+- pipeline.id: test
+  pipeline.batch.size: 1
+  path.config: "/tmp/logstash/*.config"
